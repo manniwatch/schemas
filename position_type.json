@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/manniwatch/schemas/position_type.json",
+  "type": "string",
+  "description": "position type to query",
+  "enum": [
+    "RAW",
+    "CORRECTED"
+  ],
+  "default": "RAW"
+}
