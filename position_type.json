@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/manniwatch/schemas/position_type.json",
+  "$id": "#manniwatch/position_type",
   "type": "string",
   "description": "position type to query",
   "enum": [
