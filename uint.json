@@ -1,0 +1,12 @@
+{
+  "$id": "#manniwatch/uint",
+  "anyOf": [
+  {
+    "pattern": "^\\+?\\d+$",
+    "type": "string"
+    },
+    {
+    "minimum": 0,
+    "type": "integer"
+  }]
+}
